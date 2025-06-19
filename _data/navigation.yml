@@ -8,27 +8,24 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-- title: "CV"
-#  URL: /cv/
-  url: /files/CV_Mohammad Jasarat.pdf
- 
- - title: "Portfolio"
-   URL: /portfolio/
-    
- - title: "Publications"
-    URL: /publications/
+  - title: "CV"
+    url: /files/CV_Mohammad_Jasarat.pdf
 
- # - title: "Talks"
- #   url: /talks/    
-    
-      
- # - title: "Blog Posts"
- #   url: /year-archive/
-    
-    
+  - title: "Portfolio"
+    url: /portfolio/
+
+  - title: "Publications"
+    url: /publications/
+
+#  - title: "Talks"
+#    url: /talks/
+
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
 #  - title: "CV"
- #   url: /cv-json/
- #   url: /files/CV_Mohammad Jasarat.pdf
-    
- # - title: "Guide"
- #  url: /markdown/
+#    url: /cv-json/
+#    url: /files/CV_Mohammad_Jasarat.pdf
+
+#  - title: "Guide"
+#    url: /markdown/
