@@ -10,7 +10,7 @@
 main:
  - title: "CV"
   #  url: /cv/
-    url: /files/CV_Mohammad Jasarat.pdf
+    url: /files/CV_Mohammad Jasarat
  
  - title: "Portfolio"
     url: /portfolio/
