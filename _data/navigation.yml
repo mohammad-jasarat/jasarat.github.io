@@ -9,9 +9,10 @@
 
 main:
  - title: "CV"
-    url: /cv/
-
-     - title: "Portfolio"
+  #  url: /cv/
+    url: /files/CV_Mohammad Jasarat.pdf
+ 
+ - title: "Portfolio"
     url: /portfolio/
     
   - title: "Publications"
